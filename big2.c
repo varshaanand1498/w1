@@ -1,5 +1,5 @@
 /* C Program to Find Largest of Two numbers */ 
-/* C Program to Find Largest of Two numbers */ 
+/* C Programm to Find Largest of Two numbers */ 
    
 #include <stdio.h>  
    
